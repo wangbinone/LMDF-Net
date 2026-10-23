@@ -28,11 +28,13 @@
 
 以下是模型检查点的下载链接：
 - 🔹 **SateHaze1k**  
-[📥 Download](https://pan.baidu.com/s/12jl2jqlFqd4c5BSEM-P9rw?pwd=r2a7)
-- 🔹 **HRSD**  
-[📥 Download](https://pan.baidu.com/s/14KPqTb4g-OKQxr12JDI1zQ?pwd=avju)
+[📥 Download](https://pan.baidu.com/s/1CFppJerVFeG3o3CkJg1xtA?pwd=73gh)
+- 🔹 **RSID**  
+[📥 Download](https://pan.baidu.com/s/1AbpUqyZfpi6JgZD0C-S6cQ?pwd=gxw6)
 - 🔹 **RRSHID**  
-[📥 Download](https://pan.baidu.com/s/16ks7wDWh38PmADUZO5Zykw?pwd=fy6b)
+[📥 Download](https://pan.baidu.com/s/1N4gmpnzuRStTEcqy6pcAhA?pwd=xuvn)
+- 🔹 **HRSD**  
+[📥 Download](https://pan.baidu.com/s/1egbRjsBzPAcqfg9kDlS_Ag?pwd=pq5t)
 
 ---
 
